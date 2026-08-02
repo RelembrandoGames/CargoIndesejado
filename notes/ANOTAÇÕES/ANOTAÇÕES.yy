@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"ANOTAÇÕES",
+  "name":"ANOTAÇÕES",
+  "parent":{
+    "name":"CargoIndesejado",
+    "path":"CargoIndesejado.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

@@ -1,20 +1,28 @@
+
 //Array que vai armazenar as escolhas
 global.escolhas = 
 [
-"A",
+["A",10],
 
-"B",
+["B",-20],
 
-"C",
+["C",30],
 
-"D",
+["D",-40],
 
-"E",
+["E",50],
 
-"F"
+["F",-60]
 
 ]
 
 global.escolhas_quant = 5
 
 global.escolhas_feitas = []
+
+global.backup = []
+
+global.pontos = 0
+
+global.vida = 100
+

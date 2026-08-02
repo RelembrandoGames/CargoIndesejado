@@ -1,0 +1,33 @@
+O que falta fazer:
+
+0 - Atualizar o GDD
+
+1 Processo de Gameplay:
+
+- Colocar a variavel de pontos no array de escolhas
+- Colocar o timer
+{
+	Timer de 30 segundos, se chegar a 0, a pessoa perde pontos e as duas ideias são descartadas
+}
+- Criar um botão de ver opção
+{
+	vai abrir uma pagina por cima da tela de jogo onde a pessoa podera ler o que é a escolha;
+}
+- Criar um botão de aceitar pesquisa.
+{
+	Vai fazer todas as ações que aconteciam quando clicava no objeto pesquisa
+}
+- jogar a outra pesquisa fora e depois mostrar o resultado da que escolheu, dano/vida e pontos
+- Criar todas as opções
+- Acrescentar todas as opções;
+- Dependendo da opção, uma opção a mais é acrescentada na variavel escolhas
+- Mostrar pontos no final
+- Fazer um Menu de opções
+
+2 Processo de Artes:
+
+
+3 Processo de sons:
+
+
+4 Processo de Polida do jogo:

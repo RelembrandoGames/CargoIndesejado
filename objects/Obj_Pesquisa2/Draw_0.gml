@@ -10,3 +10,9 @@ escolha = global.escolhas[aleatorio]
 
 //Desenhando o texto da escolha
 draw_text(x,y,escolha)
+
+//Resetando a font
+draw_set_font(-1)
+
+//Resetando o desenho
+draw_set_halign(-1)

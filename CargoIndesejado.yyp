@@ -28,12 +28,15 @@
   },
   "name":"CargoIndesejado",
   "resources":[
+    {"id":{"name":"Fn_Botao","path":"fonts/Fn_Botao/Fn_Botao.yy",},},
     {"id":{"name":"Fn_Escolha","path":"fonts/Fn_Escolha/Fn_Escolha.yy",},},
+    {"id":{"name":"ANOTAÇÕES","path":"notes/ANOTAÇÕES/ANOTAÇÕES.yy",},},
     {"id":{"name":"Obj_Botao","path":"objects/Obj_Botao/Obj_Botao.yy",},},
     {"id":{"name":"Obj_Pesquisa","path":"objects/Obj_Pesquisa/Obj_Pesquisa.yy",},},
     {"id":{"name":"Obj_Pesquisa2","path":"objects/Obj_Pesquisa2/Obj_Pesquisa2.yy",},},
     {"id":{"name":"Obj_Pontuacao_final","path":"objects/Obj_Pontuacao_final/Obj_Pontuacao_final.yy",},},
     {"id":{"name":"Obj_spawn","path":"objects/Obj_spawn/Obj_spawn.yy",},},
+    {"id":{"name":"Obj_UI","path":"objects/Obj_UI/Obj_UI.yy",},},
     {"id":{"name":"Rm_Final","path":"rooms/Rm_Final/Rm_Final.yy",},},
     {"id":{"name":"Rm_Gameplay","path":"rooms/Rm_Gameplay/Rm_Gameplay.yy",},},
     {"id":{"name":"Rm_Inicial","path":"rooms/Rm_Inicial/Rm_Inicial.yy",},},
@@ -46,9 +49,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Rm_Inicial","path":"rooms/Rm_Inicial/Rm_Inicial.yy",},},
     {"roomId":{"name":"Rm_Gameplay","path":"rooms/Rm_Gameplay/Rm_Gameplay.yy",},},
     {"roomId":{"name":"Rm_Final","path":"rooms/Rm_Final/Rm_Final.yy",},},
-    {"roomId":{"name":"Rm_Inicial","path":"rooms/Rm_Inicial/Rm_Inicial.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

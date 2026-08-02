@@ -1,22 +1,24 @@
 {
   "$GMRoom":"v1",
   "%Name":"Rm_Inicial",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/Rm_Inicial/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_1156FA5D1","path":"rooms/Rm_Inicial/Rm_Inicial.yy",},
     {"name":"inst_439C6AAF1","path":"rooms/Rm_Inicial/Rm_Inicial.yy",},
+    {"name":"inst_3D993D60","path":"rooms/Rm_Inicial/Rm_Inicial.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Objetos","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_1156FA5D1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1156FA5D1","objectId":{"name":"Obj_Pontuacao_final","path":"objects/Obj_Pontuacao_final/Obj_Pontuacao_final.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"v4","%Name":"inst_439C6AAF1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_439C6AAF1","objectId":{"name":"Obj_Botao","path":"objects/Obj_Botao/Obj_Botao.yy",},"properties":[
-            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_Botao","path":"objects/Obj_Botao/Obj_Botao.yy",},"propertyId":{"name":"texto","path":"objects/Obj_Botao/Obj_Botao.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Menu",},
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_Botao","path":"objects/Obj_Botao/Obj_Botao.yy",},"propertyId":{"name":"texto","path":"objects/Obj_Botao/Obj_Botao.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Jogar",},
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_Botao","path":"objects/Obj_Botao/Obj_Botao.yy",},"propertyId":{"name":"sala","path":"objects/Obj_Botao/Obj_Botao.yy",},"resource":{"name":"Rm_Gameplay","path":"rooms/Rm_Gameplay/Rm_Gameplay.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Rm_Gameplay",},
-          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":352.0,"y":256.0,},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":240.0,"y":160.0,},
+        {"$GMRInstance":"v4","%Name":"inst_3D993D60","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3D993D60","objectId":{"name":"Obj_Botao","path":"objects/Obj_Botao/Obj_Botao.yy",},"properties":[
+            {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_Botao","path":"objects/Obj_Botao/Obj_Botao.yy",},"propertyId":{"name":"texto","path":"objects/Obj_Botao/Obj_Botao.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Sair",},
+          ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":240.0,"y":240.0,},
       ],"layers":[],"name":"Objetos","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Spr_Placeholder1","path":"sprites/Spr_Placeholder1/Spr_Placeholder1.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
