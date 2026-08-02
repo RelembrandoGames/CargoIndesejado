@@ -1,3 +1,4 @@
+//Se desenhar
 draw_self()
 
 //Selecionando a font
